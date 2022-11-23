@@ -1,0 +1,14 @@
+E:\bridgelab\Day20Problems\bin\Debug\netcoreapp3.1\Day20Problems.exe
+E:\bridgelab\Day20Problems\bin\Debug\netcoreapp3.1\Day20Problems.deps.json
+E:\bridgelab\Day20Problems\bin\Debug\netcoreapp3.1\Day20Problems.runtimeconfig.json
+E:\bridgelab\Day20Problems\bin\Debug\netcoreapp3.1\Day20Problems.runtimeconfig.dev.json
+E:\bridgelab\Day20Problems\bin\Debug\netcoreapp3.1\Day20Problems.dll
+E:\bridgelab\Day20Problems\bin\Debug\netcoreapp3.1\Day20Problems.pdb
+E:\bridgelab\Day20Problems\obj\Debug\netcoreapp3.1\Day20Problems.csproj.AssemblyReference.cache
+E:\bridgelab\Day20Problems\obj\Debug\netcoreapp3.1\Day20Problems.GeneratedMSBuildEditorConfig.editorconfig
+E:\bridgelab\Day20Problems\obj\Debug\netcoreapp3.1\Day20Problems.AssemblyInfoInputs.cache
+E:\bridgelab\Day20Problems\obj\Debug\netcoreapp3.1\Day20Problems.AssemblyInfo.cs
+E:\bridgelab\Day20Problems\obj\Debug\netcoreapp3.1\Day20Problems.csproj.CoreCompileInputs.cache
+E:\bridgelab\Day20Problems\obj\Debug\netcoreapp3.1\Day20Problems.dll
+E:\bridgelab\Day20Problems\obj\Debug\netcoreapp3.1\Day20Problems.pdb
+E:\bridgelab\Day20Problems\obj\Debug\netcoreapp3.1\Day20Problems.genruntimeconfig.cache
