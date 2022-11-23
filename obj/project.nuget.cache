@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6c/Gzs4lc9akaVHJad9W/JxTuzj/ulIS3WalrpwS+FL8sHoq5RsrbCWhXyFQEVAHsAqBOFhjaUNhhTNfOtJlUw==",
+  "success": true,
+  "projectFilePath": "E:\\bridgelab\\Day20Problems\\Day20Problems.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Syed Faizan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}
